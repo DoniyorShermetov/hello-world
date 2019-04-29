@@ -1,2 +1,4 @@
 # hello-world
-My First Repository
+Hello Everybody!!!
+I am doing ICT's 12 th task 
+
